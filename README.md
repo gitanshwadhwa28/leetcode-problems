@@ -1,6 +1,6 @@
 # Leetcode problems
 
-Author: [github.com/lzl124631x](https://github.com/gitanshwadhwa28)
+Author: [github.com/gitanshwadhwa28](https://github.com/gitanshwadhwa28)
 
 \# | Title | Difficulty | Solution
 ---|---|---|---
