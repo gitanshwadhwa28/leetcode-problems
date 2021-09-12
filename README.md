@@ -4,5 +4,5 @@ Author: [github.com/gitanshwadhwa28](https://github.com/gitanshwadhwa28)
 
 \# | Title | Difficulty | Solution
 ---|---|---|---
-1905 | Count Sub Islands | Medium | [Solution](leetcode-problems/1905.%Count%Sub%Islands.cpp)
+1905 | Count Sub Islands | Medium | [Solution](1905.%Count%Sub%Islands.cpp)
 
